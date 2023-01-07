@@ -1,0 +1,12 @@
+export {default as Footer} from './Footer';
+export {default as Layout} from './Layout';
+export {default as Navbar} from './Navbar';
+export {default as Product} from './Product';
+export {default as HeroBanner} from './HeroBanner';
+export {default as FooterBanner} from './FooterBanner';
+export {default as Cart} from './Cart';
+export {default as Women} from './Women';
+export {default as Review} from './Review';
+export {default as Men} from './Men';
+export {default as Contact} from './Contact';
+export {default as About} from './About';
